@@ -22,8 +22,8 @@ if sys.platform == 'win32':
 # ⚙️ КОНФИГУРАЦИЯ
 # ============================================================================
 
-API_TOKEN = '8359180356:AAGrQrVBtzPF_FEoMVaK-03BosErFE6rYag'
-ADMIN_IDS = [1186600934]  # ID администраторов через запятую
+API_TOKEN = '8897276602:AAEPkqv_eGeY3PSk6uyC0zj5yfz389KFJxs'
+ADMIN_IDS = [6305430094]  # ID администраторов через запятую
 
 # 🏦 ЮKassa
 YOOKASSA_SHOP_ID = 'ВАШ_SHOP_ID_ЮКАССА'
